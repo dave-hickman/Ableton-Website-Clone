@@ -141,3 +141,117 @@ span{
     transform: translateY(-50%);
     right: 7.5%;
 }
+
+.video-container{
+    background-color: white;
+    display: flex;
+    justify-content: center;
+
+}
+
+.green{
+    background-color: #b6ffc0 ;
+    position: absolute;
+    height: 1200px;
+    width: 900px;
+    left: 0;
+}
+
+.block-image3{
+    position: absolute;
+    float: left;
+    top: 25%;
+    transform: translateY(-50%);
+    left: 7.5%;
+}
+
+.block-image4{
+    position: absolute;
+    float: left;
+    top: 75%;
+    transform: translateY(-50%);
+    left: 7.5%;
+}
+
+.block-image5{
+    position: absolute;
+    float: right;
+    top: 50%;
+    transform: translateY(-50%);
+    right: 7.5%;
+}
+
+.blocks2{
+    background-color: white;
+    height: 1200px;
+    position: relative;
+}
+
+.image-break{
+    background-color: white;
+    display: flex;
+    justify-content: center;
+}
+
+.purple{
+      background-color: #d5b3ff      ;
+    position: absolute;
+    height: 900px;
+    width: 900px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.block-image6{
+    position: absolute;
+    float: left;
+    top: 50%;
+    transform: translateY(-50%);
+    left: 7.5%;
+}
+
+.block-image7{
+    position: absolute;
+    float: right;
+    top: 50%;
+    transform: translateY(-50%);
+    right: 0;
+}
+
+.wrapper{
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    margin: 0px;
+    padding: 0px;
+}
+
+.latest-jobs{
+    width: 85%;
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+
+.job-info{
+    background-color:#b1c5ff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 10%;
+
+}
+
+.jobs{
+    min-width: 50%;
+    object-fit: cover;
+   
+}
+
+.job-info h1{
+    margin: 20px;
+}
+
+.job-info .blue{
+    color: blue;
+}
